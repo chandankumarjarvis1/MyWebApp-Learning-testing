@@ -1,4 +1,4 @@
-print("HUBNE")
+print(" HUBNE ")
 print("1. Apply for examination :")
 print("2. Apply for result :")
 print("3. Contact us..")
